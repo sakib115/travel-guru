@@ -1,0 +1,29 @@
+.display-nav-logo{
+    width: 12vw;
+    height: 10vh;
+    margin-left: 8vw;
+    margin-top: 2vh;
+}
+.nav-items-div{
+    margin-top: 4vh;
+}
+.nav-items{
+    color: white;
+    margin-right: 5vw;
+    font-size: 20px;
+    list-style: none;
+    cursor: pointer;
+}
+.yellow-button{
+    background-color: #F9A51A;
+    width: 8vw;
+    height: 7vh;
+    border: 0px;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+}
+.nav-login-button{
+    margin-right: 5vw;
+    margin-top: 3vh;
+}

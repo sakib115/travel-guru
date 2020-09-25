@@ -1,0 +1,56 @@
+.booking-main-div{
+    text-shadow: 2px 2px 3px black;
+}
+.container{
+    margin: 0px;
+    margin-left: 2vw;
+}
+.booking-hotel-title1{
+    margin: 0px;
+}
+.booking-hotel-title2{
+    margin: 0px;
+    font-size: 3vw;
+}
+.hotel-details{
+    border:  1px solid #F9A51A;
+    margin: 3vh 0vw;
+    width: 45vw;
+    height: 30vh;
+    padding: 1vh;
+}
+.map-div{
+    height: 70vh;
+    width: 35vw;
+    margin: 5vh 4vw 0vh 0vw;
+    border-radius: 2vw;
+}
+.hotel-img{
+    height: 100%;
+    width: 100%;
+}
+.hotel-title{
+    font-size: 2vw;
+    margin-left: 1vw;
+}
+.hotel-description{
+    margin-left: 1vw;
+}
+.hotel-price{
+    text-align: end;
+    font-size: 3vw;
+    margin-top: 0px;
+    margin-right: 2vw;
+}
+.mapouter{
+    position:relative;
+    text-align:center;
+    width: 40vw;
+    height: 80vh;
+}
+.gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+    width: 40vw;
+    height: 80vh;
+}

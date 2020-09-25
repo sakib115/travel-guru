@@ -1,0 +1,93 @@
+
+.yellow-button{
+    background-color: #F9A51A;
+    width: 8vw;
+    height: 7vh;
+    border: 0px;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+}
+.place-image-card-div{
+    display: flex;
+    margin-top: 10vh;
+}
+.dynamic-place-details-div{
+    width: 25vw;
+    height: 60vh;
+    color : white;
+    margin-left: 6vw;
+    margin-top: 4vh;
+    text-shadow: 2px 2px 3px black;
+}
+.place-image-card{
+    width: 20vw;
+    height: 60vh;
+    margin-left: 2vw;
+}
+.reset-button{
+    border: 0px;
+    background: none;
+    margin: 0px;
+    width: 20vw;
+    height: 60vh;
+}
+.reset-button:focus{
+    outline: none;
+    border: 0px;
+    filter: brightness(200%);
+}
+.card-images{
+    width: 20vw;
+    height: 60vh;
+    cursor: pointer;
+    position: relative;
+    filter : brightness(50%);
+}
+.card-images:focus{
+    border: 1px solid black;
+}
+.card-title{
+    color: white;
+    position: relative;
+    bottom: 10vh;
+    text-shadow: 2px 2px 3px black;
+}
+
+.booking-card{
+    width: 35vw;
+    height: 60vh;
+    margin-left: 18vw;
+    margin-top: 5vh;
+    border-radius: 2vh;
+    padding: 4vh;
+    background-color: rgb(250, 250, 250);
+}
+.inputs{
+    width: 30vw;
+    height: 7vh;
+    background-color: whitesmoke;
+    border: 1px solid gray;
+    font-size: 3vh;
+    padding: 5px;
+}
+.for{
+    width: 13vw;
+    height: 7vh;
+}
+.for-margin{
+    margin-left: 14vw ;
+}
+.for-labels{
+    margin-top: 2vh;
+}
+.start-booking-button{
+    width: 30vw;
+    height: 7vh;
+    margin-top: 5vh;
+    border: 0px;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+    background-color: #F9A51A;
+}
